@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignnment 4 mail to websites</title>
+</head>
+<body>
+    <h6>
+        <a href="mailto: webdev@gmail.com" ><b><i>Mail to webdev</i></b></a>
+    </h6>
+    <h6>
+        <a href="mailto: python@gmail.com" ><b><i>Mail to python</i></b></a>
+    </h6>
+    <h6>
+        <a href="mailto: robotics@gmail.com" ><b><i>Mail to robotics</i></b></a>
+    </h6>
+    <h6>
+        <a href="mailto: cloud@gmail.com" ><b><i>Mail to cloud</i></b></a>
+    </h6>
+</body>
+</html>
