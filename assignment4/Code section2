@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignnment 4 call to websites</title>
+</head>
+<body>
+    <h6>
+        <a href="tel:+911123978046" >Corona Helpline number</a>
+    </h6>
+    <h6>
+        <a href="tel:+1800 3000 9009" >Amazon Helpline Number</a>
+    </h6>
+    <h6>
+        <a href="tel:+1800 425 3800" >Sbi Helpline Number</a>
+    </h6>
+    <h6>
+        <a href="tel:+1800 889 9999" >Sbi Helpline Number</a>
+    </h6>
+    
+    
+</body>
+</html>
