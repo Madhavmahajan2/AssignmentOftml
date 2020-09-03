@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio</title>
+</head>
+<body>
+    
+
+
+    <h2>
+        audio
+        </h2>
+        <audio 
+        src="https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3"
+        controls
+        loop 
+        autoplay
+
+        preload
+        >
+</body>
+</html>
