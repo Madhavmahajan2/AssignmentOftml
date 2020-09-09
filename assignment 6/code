@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pokemon</title>
+</head>
+<body>
+    <h1 align=center>Pokemon</h1>
+    <Table border="7" bordercolor="red" cellpadding="20" cellpaddingcolor="red">
+        <caption>Pokemon</caption>
+        <thead align="center">
+            <tr>
+                <th bgcolor="orange">
+                    <h1>Pokemon Name</h1>
+                </th>
+                <th bgcolor="orange">
+                    <h1>Pokemon</h1>
+                </th>
+                <th bgcolor="orange">
+                    <h1>Type</h1>
+                </th>
+                <th bgcolor="orange">
+                    <h1>Hieght</h1>
+                </th>
+                <th bgcolor="orange">
+                    <h1>Weight</h1>
+                </th>
+                <th bgcolor="orange">
+                    <h1>Category</h1>
+                </th>
+                <th bgcolor="orange">
+                    <h1>Weakness</h1>
+                </th>
+                <th bgcolor="orange">
+                    <h1>Evolves into:</h1>
+                </th>
+                <th bgcolor="orange">
+                    <h1>Evolved image</h1>
+                </th>
+            </tr>
+                
+        <tbody align="center">
+            <tr>
+                <td bgcolor="yellow">
+
+                <h1 >Pikachu</h1>
+                </td>
+                <th scope="col"bgcolor="yellow"> 
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png" alt="">
+                </th>
+                <th scope="col" bgcolor="yellow">
+                    <h1>Electric</h1>
+                </th >
+                <th scope="col" bgcolor="yellow">
+                    <h1>1'04"</h1>
+                </th>
+                <th scope="col" bgcolor="yellow">
+                    <h1>13.2 lbs</h1>
+                </th>
+                <th scope="col" bgcolor="yellow">
+                    <h1>Mouse</h1>
+                </th>
+                <th scope="col" bgcolor="yellow">
+                    <h1>Ground Type pokemons</h1>
+                <th scope="col" bgcolor="yellow">
+                    <h1><a href="https://www.pokemon.com/us/pokedex/raichu">Raichu</a></h1>
+                <th scope="col" bgcolor="yellow">
+                    <a href="https://www.pokemon.com/us/pokedex/raichu"><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png
+                    " alt=""></a>
+
+
+            </tr>
+            <tr>
+                <td bgcolor="yellow">
+
+                <h1 >Eevee</h1>
+                </td>
+                <th scope="col"bgcolor="yellow"> 
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png" alt="">
+                </th>
+                <th scope="col" bgcolor="yellow">
+                    <h1>Normal</h1>
+                </th >
+                <th scope="col" bgcolor="yellow">
+                    <h1>1'00"</h1>
+                </th>
+                <th scope="col" bgcolor="yellow">
+                    <h1>14.3 lbs</h1>
+                </th>
+                <th scope="col" bgcolor="yellow">
+                    <h1>Evolution</h1>
+                </th>
+                <th scope="col" bgcolor="yellow">
+                    <h1>Fighting Type pokemons</h1>
+                <th scope="col" bgcolor="yellow">
+                    <h1><a href="https://www.pokemon.com/us/pokedex/vaporeon" target="_blank">Vaporeon</a><br><a href="https://www.pokemon.com/us/pokedex/jolteon" target="_blank">Jolteon</a><br><a href="https://www.pokemon.com/us/pokedex/flareon" target="_blank">Flareon</a> <br><a href="https://www.pokemon.com/us/pokedex/espeon" target="_blank">Espeon </a><br><a href="https://www.pokemon.com/us/pokedex/umbreon" target="_blank">Umbreon</a> <br><a href="https://www.pokemon.com/us/pokedex/leafeon" target="_blank">Leafeon</a> <br> <a href="https://www.pokemon.com/us/pokedex/glaceon" target="_blank">Glaceon</a> <br><a href="https://www.pokemon.com/us/pokedex/sylveon" target="_blank">Sylveon</a>  </h1>
+                <th scope="col" bgcolor="yellow">
+                    <figure>
+                        <figcaption>Vaporeon</figcaption>
+                        <a href="https://www.pokemon.com/us/pokedex/vaporeon"><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/134.png" alt="" height="80"></a>
+                        
+                    </figure>
+                    <figure>
+                        <figcaption>Jolteon</figcaption>
+                        <a href="https://www.pokemon.com/us/pokedex/jolteon"><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/135.png" alt="" height="80"></a>
+                        
+                    </figure>
+                    <figure>
+                        <figcaption>Flareon</figcaption>
+                        <a href="https://www.pokemon.com/us/pokedex/flareon"><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/136.png" alt="" height="80"></a>
+                    </figure>
+                    <figure>
+                        <figcaption>Espeon</figcaption>
+                        <a href="https://www.pokemon.com/us/pokedex/espeon"><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/196.png" alt="" height="80"></a>
+                    </figure>
+                    <figure>
+                        <figcaption>Umbreon</figcaption>
+                        <a href="https://www.pokemon.com/us/pokedex/umbreon"><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/197.png" alt="" height="80"></a>
+                    </figure>
+                    <figure>
+                        <figcaption>Leafeon</figcaption>
+                        <a href="https://www.pokemon.com/us/pokedex/leafeon"><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/470.png" alt="" height="80"></a>
+                    </figure>
+                    <figure>
+                        <figcaption>Glaceon</figcaption>
+                        <a href="https://www.pokemon.com/us/pokedex/glaceon"><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/471.png" alt="" height="80"></a>
+                    </figure>
+                    <figure>
+                        <figcaption>Sylveon</figcaption>
+                        <a href="https://www.pokemon.com/us/pokedex/sylveon"><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/700.png" alt="" height="80"></a>
+                    </figure>
+            <tr>
+                <td bgcolor="yellow">
+
+                <h1 >Charmander</h1>
+                </td>
+                <th scope="col"bgcolor="yellow"> 
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png" alt="">
+                </th>
+                <th scope="col" bgcolor="yellow">
+                    <h1>Fire</h1>
+                </th >
+
+                <th scope="col" bgcolor="yellow">
+                    <h1>2'00"</h1>
+                </th>
+
+                <th scope="col" bgcolor="yellow">
+                    <h1>18.7 lbs</h1>
+                </th>
+
+                <th scope="col" bgcolor="yellow">
+                    <h1>Lazard</h1>
+                </th>
+                <th scope="col" bgcolor="yellow">
+                    <h1>Ground, Water, Rock Type pokemons</h1>
+                <th scope="col" bgcolor="yellow">
+                    <h1><a href="https://www.pokemon.com/us/pokedex/charmeleon ">Charmeleon </a></h1>
+                <th scope="col" bgcolor="yellow">
+                    <a href="https://www.pokemon.com/us/pokedex/charmeleon "><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png
+                    " alt=""></a>
+
+
+            </tr>
+                   
+
+
+        </tfoot>
+    </Table>
+</body>
+</html>
