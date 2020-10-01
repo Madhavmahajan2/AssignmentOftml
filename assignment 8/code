@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admission form</title>
+</head>
+<body style="background-color:navajowhite;"
+>
+<h1>Admission form</h1>
+<fieldset>
+    <legend><h3>Person details</h3></legend>
+    <label for="firstname">First Name : </label>
+        
+            <input type="text" name="firstname" id="firstname" placeholder="First Name" required>
+
+            <label for="lastname">Last Name : </label>
+            <input type="text" name="lastname" id="lastname" placeholder="Last Name" required>
+    <br>
+    <br>
+    <label for="class">Class : </label>
+        
+            <input type="text" name="class" id="class" placeholder="Enter your class here" required>
+    <br>
+    <br>
+    <label for="D.O.B">Date of birth : </label>
+            <input type="date" name="date" id="date" required>
+    <br>
+    <br>
+    <label for="Favourite Color">Favourite Color : </label>
+            <input type="color" name="color" id="color" required>
+    <br>
+    <br>
+    <label for="Photo">Student's image : </label>
+            <input type="file" name="image" id="image" required>
+    <br>
+    <br>
+    <label for="Signature">Student's Signature : </label>
+            <input type="file" name="Signature" id="Signature" required>
+    <br><br>
+    
+</fieldset>
+<fieldset>
+    <legend><h3>Matric details</h3></legend>
+    <label for="Previous School name">Name of previous School : </label>
+            <input type="text" name="Previous School" id="Previous School" placeholder="Enter your Previous School name here" required>
+    <br><br>
+    <label for="Roll no">Roll number : </label>
+            <input type="number" name="Roll no" id="roll no" placeholder="Enter your Roll no here" required>
+    <br><br>
+    <label for="result">Result : </label>
+    <br>
+            <input type="radio" name="Roll no" id="roll no" placeholder="Enter your Roll no here" required>Pass
+            <br>
+            <input type="radio" name="Roll no" id="roll no" placeholder="Enter your Roll no here" required>Compartment
+    <br><br>
+    <label for="Marksheet">Student's Marksheet : </label>
+            <input type="file" name="Marksheet" id="Marksheet" required>
+    <br><br>
+    <label for="Transfer Certificate">Student's T.C : </label>
+            <input type="file" name="T.C" id="T.C" required>
+    <br><br>
+</fieldset>
+<fieldset>
+    <legend><h3>Registration</h3></legend>
+    <label for="Stream">Stream : </label>
+    <select name="" id="">
+        <option value="medical">medical</option>
+        <option value="non-medical">non-medical</option>
+        <option value="Humanities">Humanities</option>
+    </select>
+    <br><br>
+    <label for="Roll no">Roll number : </label>
+            <input type="number" name="Roll no" id="roll no" placeholder="Enter your Roll no here" required>
+    <br><br>
+    <label for="Registration Date">Admission date : </label>
+            <input type="date" name="Admission date" id="Admission date" required>
+    <br><br>
+    <label for="Registration Time">Admission Time : </label>
+            <input type="time" name="Admission time" id="Admission time" required>
+           
+    <br><br>
+    
+</fieldset>
+    <input type="submit"><input type="reset">
+    
+</body>
+</html>
+
+
+
+
+
