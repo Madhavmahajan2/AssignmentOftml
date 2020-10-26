@@ -10,16 +10,16 @@
     <fieldset>
         <legend>General Information</legend>
         <label for="Arrival Date">Arrival Date</label>
-        <input type="date" required placeholder="enter your arrival date here">
+        <input type="date" required >
         <br><br>
         <label for="Nights to spend">Nights To spend</label>
         <input type="number" required placeholder="enter your nights to spend here">
         <br><br>
         <label for="Adults">Adults </label>
-        <input type="number" name="Adults" id="Adults" >
+        <input type="number" name="Adults" id="Adults" placeholder="enter number of adults here">
         <br><br>
         <label for="Children">Children </label>
-        <input type="number" name="Children" id="Children">
+        <input type="number" name="Children" id="Children"placeholder="enter number of children here">
         
     </fieldset>
     <fieldset>
