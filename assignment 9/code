@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESERVATION REQUEST</title>
+</head>
+<body>
+    <h1>RESERVATION REQUEST</h1>
+    <fieldset>
+        <legend>General Information</legend>
+        <label for="Arrival Date">Arrival Date</label>
+        <input type="date" required>
+        <br><br>
+        <label for="Nights to spend">Nights To spend</label>
+        <input type="number" required>
+        <br><br>
+        <label for="Adults">Adults </label>
+            <input type="number" name="Adults" id="Adults">
+            <br><br>
+            <label for="Children">Children </label>
+            <input type="number" name="Children" id="Children">
+        
+    </fieldset>
+    <fieldset>
+        
+    </fieldset>
+    <input type="submit" value="submit form">
+</body>
+</html>
